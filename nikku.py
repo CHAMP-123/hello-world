@@ -1,0 +1,2 @@
+def nik:
+  print("Hi")
